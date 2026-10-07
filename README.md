@@ -1,4 +1,4 @@
-# 🗺️ Geospatial File Measurement API & Frontend
+# 🗺️ Geospatial File Measurement API 
 
 A minimal, production-quality full-stack geospatial application for uploading, processing, and measuring geospatial files.
 
