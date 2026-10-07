@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Plot A</name>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -122.0822,37.4222,0
+              -122.0822,37.4220,0
+              -122.0810,37.4220,0
+              -122.0810,37.4222,0
+              -122.0822,37.4222,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Road A</name>
+      <LineString>
+        <coordinates>
+          -122.0822,37.4222,0
+          -122.0820,37.4220,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Location A</name>
+      <Point>
+        <coordinates>-122.0822,37.4222,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

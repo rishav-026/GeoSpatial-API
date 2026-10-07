@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Second Measurement Test</name>
+<Placemark><name>Large Test Plot</name><ExtendedData><Data name="category"><value>Industrial</value></Data><Data name="owner"><value>Test Company</value></Data></ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>77.5800,12.9600,0 77.5850,12.9600,0 77.5850,12.9650,0 77.5800,12.9650,0 77.5800,12.9600,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>Test Route</name><ExtendedData><Data name="category"><value>Pipeline</value></Data></ExtendedData><LineString><coordinates>77.5700,12.9500,0 77.5750,12.9530,0 77.5800,12.9570,0 77.5850,12.9620,0</coordinates></LineString></Placemark>
+<Placemark><name>Test Point</name><ExtendedData><Data name="category"><value>Inspection</value></Data></ExtendedData><Point><coordinates>77.5900,12.9700,0</coordinates></Point></Placemark>
+</Document></kml>

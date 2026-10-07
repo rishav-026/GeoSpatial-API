@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sample Survey</name>
+
+    <Placemark>
+      <name>Sample Plot</name>
+      <ExtendedData>
+        <Data name="type"><value>Agricultural</value></Data>
+        <Data name="owner"><value>Rishav</value></Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              77.5940,12.9710,0
+              77.5960,12.9710,0
+              77.5960,12.9730,0
+              77.5940,12.9730,0
+              77.5940,12.9710,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Sample Road</name>
+      <ExtendedData>
+        <Data name="type"><value>Road</value></Data>
+      </ExtendedData>
+      <LineString>
+        <coordinates>
+          77.5940,12.9700,0
+          77.5960,12.9720,0
+          77.5980,12.9730,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Sample Location</name>
+      <ExtendedData>
+        <Data name="type"><value>Survey Point</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>77.5970,12.9740,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
