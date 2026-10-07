@@ -77,6 +77,8 @@ The React dashboard provides:
 
 ---
 
+![Alt Text]([images/my-screenshot.png](https://github.com/rishav-026/GeoSpatial-API/blob/main/Screenshot%202026-10-07%20220008.png))
+
 ## 🏗️ Architecture
 
 The application follows a simple, clean client-server architecture:
@@ -155,6 +157,8 @@ geospatial-api/
 ```
 
 ---
+
+![Alt Text]([[images/my-screenshot.png](https://github.com/rishav-026/GeoSpatial-API/blob/main/Screenshot%202026-10-07%20220008.png)](https://github.com/rishav-026/GeoSpatial-API/blob/main/Screenshot%202026-10-07%20220036.png))
 
 ## 🔄 File Processing Flow
 
